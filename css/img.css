@@ -1,0 +1,64 @@
+#box {
+
+    /* height: 80vh; */
+    margin-left: auto;
+    margin-right: auto;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: 20px;
+    background-repeat: no-repeat;
+}
+
+#box1 {
+    margin-left: 20vh;
+    margin-top: 15vh;
+    background-image: url(../pcone/客廳_Unnamed\ space-181.png);
+    background-repeat: no-repeat;
+    height: 100vh;
+
+}
+
+
+
+.img-squre {
+    width: 780px;
+    height: 250px;
+    background-size: cover;
+    display: inline-block;
+}
+
+
+
+
+.img-place {
+    background-image: url(../pcone/日記.png);
+    margin-left: 420px;
+    margin-top: 160px;
+}
+
+.img-things {
+    background-image: url(../pcone/開始.png);
+    margin-left: 600px;
+    margin-top: 250px;
+}
+
+
+.img-triangle {
+    width: 389px;
+    height: 109px;
+
+}
+
+a:hover {
+    background-color: #4e2d2196;
+    border-radius: 25%;
+    box-shadow: -5px -5px 2px #79554891;
+}
+
+footer>div.container-fluid {
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #d38a5a;
+    padding-top: 30px;
+}
